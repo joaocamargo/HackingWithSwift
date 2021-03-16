@@ -16,3 +16,8 @@ random numbers,
 actions, 
 UIAlertController
 
+Projeto 3 - https://www.hackingwithswift.com/read/3/overview
+Share, save image, etc
+
+Projeto 4 - https://www.hackingwithswift.com/read/4/overview
+loadView(), WKWebView, delegation, URL, URLRequest, UIToolbar, UIProgressView, KVO 
