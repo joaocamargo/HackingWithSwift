@@ -21,3 +21,7 @@ Share, save image, etc
 
 Projeto 4 - https://www.hackingwithswift.com/read/4/overview
 loadView(), WKWebView, delegation, URL, URLRequest, UIToolbar, UIProgressView, KVO 
+
+
+Projeto 5: https://www.hackingwithswift.com/read/5/overview
+UIAlertController, NSRange, closures,
