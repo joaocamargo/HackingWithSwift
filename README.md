@@ -25,3 +25,7 @@ loadView(), WKWebView, delegation, URL, URLRequest, UIToolbar, UIProgressView, K
 
 Projeto 5: https://www.hackingwithswift.com/read/5/overview
 UIAlertController, NSRange, closures,
+
+Projeto 6 - NSLayoutConstraint, Visual Format Language, layout anchors
+
+Projeto 7 - JSON, TabBarController, SceneDelegate, SearchBar 
