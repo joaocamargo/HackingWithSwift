@@ -26,6 +26,23 @@ loadView(), WKWebView, delegation, URL, URLRequest, UIToolbar, UIProgressView, K
 Projeto 5: https://www.hackingwithswift.com/read/5/overview
 UIAlertController, NSRange, closures,
 
-Projeto 6 - NSLayoutConstraint, Visual Format Language, layout anchors
+Projeto 6 - https://www.hackingwithswift.com/read/6/overview
+NSLayoutConstraint, Visual Format Language, layout anchors
 
-Projeto 7 - JSON, TabBarController, SceneDelegate, SearchBar 
+Projeto 7 - https://www.hackingwithswift.com/read/7/overview
+JSON, TabBarController, SceneDelegate, SearchBar 
+
+Projeto 8 - https://www.hackingwithswift.com/read/8/overview 
+addTarget(), enumerated(), joined(), replacingOccurrences()
+
+Projeto 9 - https://www.hackingwithswift.com/read/9/overview
+DispatchQueue, perform(inBackground:)
+
+Projeto 10 - https://www.hackingwithswift.com/read/10/overview
+UICollectionView, UIImagePickerController, UUID, classes
+
+Projeto 11 - https://www.hackingwithswift.com/read/11/overview
+SpriteKit, physics, blend modes, radians, CGFloat, NSKeyedUnarchiver
+Dive into SpriteKit to try your hand at fast 2D games.
+
+
