@@ -46,3 +46,25 @@ SpriteKit, physics, blend modes, radians, CGFloat, NSKeyedUnarchiver
 Dive into SpriteKit to try your hand at fast 2D games.
 
 
+Projeto 12 - https://www.hackingwithswift.com/read/12/overview
+UserDefaults, NSCoding, Codable, NSKeyedArchiver
+
+Projeto 13 - https://www.hackingwithswift.com/read/13/overview
+Core Image, UISlider, writing to the photo library
+
+
+Projeto 14 - https://www.hackingwithswift.com/read/14/overview
+SKCropNode, SKTexture, asyncAfter()
+
+
+Projeto 15 - https://www.hackingwithswift.com/read/15/overview
+Core Animation, CGAffineTransform
+
+
+Projeto 16 - https://www.hackingwithswift.com/read/16/overview
+MKMapView, MKAnnotation, MKPinAnnotationView, CLLocationCoordinate2D
+
+
+Projeto 17 - https://www.hackingwithswift.com/read/17/overview
+Per-pixel collision detection, advancing particle systems, linear and angular damping
+Dodge space debris while you learn about per-pixel collision detection.
