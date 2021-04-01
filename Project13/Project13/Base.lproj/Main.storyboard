@@ -53,7 +53,6 @@
                                 </constraints>
                                 <state key="normal" title="Change Filter"/>
                                 <connections>
-                                    <action selector="changeFiilter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5qh-fH-Xvh"/>
                                     <action selector="changeFilter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F2U-W5-jmJ"/>
                                 </connections>
                             </button>
@@ -90,7 +89,7 @@
                     <navigationItem key="navigationItem" id="acR-Rd-yXz"/>
                     <connections>
                         <outlet property="imageView" destination="zQL-IM-vid" id="KhE-xh-vrr"/>
-                        <outlet property="itensity" destination="8sD-Yn-P4K" id="Lt3-Oc-7BZ"/>
+                        <outlet property="intensity" destination="Gbm-LA-j7B" id="f64-nb-qPX"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
